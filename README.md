@@ -2,7 +2,7 @@
 
 This project was generated using [Nx](https://nx.dev).
 
-<p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" width="450"></p>
+<p align="center"><img src="https://repository-images.githubusercontent.com/557176649/5527c190-ed90-4283-a328-58919be78a83" width="450"></p>
 
 🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
 
